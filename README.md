@@ -21,7 +21,7 @@ This project demonstrates my ability to capture and analyze network traffic usin
 
 
 ## Steps Taken
-1. Launched Wireshark and selected the correct network interface (e.g., `wlan0`).
+1. Launched Wireshark and selected the correct network interface (e.g., `eth0`).
 2. Started packet capture with no filters applied.
 3. Generated traffic by visiting an HTTP-only website: `http://neverssl.com`.
 4. Applied display filters (`tcp` and `http`) to isolate relevant packets.
